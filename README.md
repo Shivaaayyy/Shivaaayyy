@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <h3 align="center">A passionate Software Developer / Data Analyst / ML Engineer from India</h3>
-<img align ="right" alt="Coding " width="400" src="https://tse2.mm.bing.net/th?id=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&pid=Api&P=0&h=180">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaaayyy&label=Profile%20views&color=0e75b6&style=flat" alt="shivaaayyy" /> </p>
 
